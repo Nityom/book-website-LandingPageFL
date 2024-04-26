@@ -514,18 +514,18 @@ section{
     text-align: center;
 }
 
-.featured .featured-slider .box:hover{
+/* .featured .featured-slider .box:hover{
     border:var(--border-hover);
-}
+} */
 
 .featured .featured-slider .box .image{
     padding:1rem;
     background: linear-gradient(15deg, #eee 30%, #fff 30.1%);
 }
 
-.featured .featured-slider .box:hover .image{
+/* .featured .featured-slider .box:hover .image{
     transform: translateY(6rem);
-}
+} */
 
 .featured .featured-slider .box .image img{
     height: 25rem;
